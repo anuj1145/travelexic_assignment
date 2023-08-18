@@ -1,0 +1,16 @@
+1. Copy the whole project directory into htdocs folder
+2. Create database name as 'travelexic' and import database sql file 'travelexic.sql' in 'DB file' folder 
+
+Agent Part:
+3. Now load url http://localhost/travel_now/public/ and register
+4. Now login here http://localhost/travel_now/public/login 
+5. After logged in, Agent can add, modify and delete the packages
+6. Agent can see all the bookings
+
+Customer Part:
+7. Now load the url in the browser http://localhost/travel_now/public/customer
+8. Search for the packages
+9. Book the package by clicking 'Book Now' button
+
+Thanks.
+
