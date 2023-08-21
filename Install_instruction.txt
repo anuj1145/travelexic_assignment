@@ -1,4 +1,4 @@
-1. Copy the whole project directory into htdocs folder
+1. Copy the whole project directory into htdocs folder with a folder name 'travel_now' 
 2. Create database name as 'travelexic' and import database sql file 'travelexic.sql' in 'DB file' folder 
 
 Agent Part:
